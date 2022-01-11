@@ -7,7 +7,7 @@ Simplified take on the amazing [af-magic](https://github.com/andyfleming/oh-my-z
 1. Clone the repository
    ```
    git clone https://github.com/JSextonn/js-magic.git
-   ```g
+   ```
 2. Create a symlink of **js-magic.zsh-theme** in `~/.oh-my-zsh/custom/themes/` manually or by using the installer.
    ```
    ./install_js_magic.sh
